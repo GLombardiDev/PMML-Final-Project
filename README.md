@@ -18,5 +18,5 @@ The `report.pdf` document provides a comprehensive overview of our project, incl
 
 ## Project Assignment
 
-The original project assignment can be found in `project_assignment.pdf`.
+The original project assignment can be found in `project_assignment.pdf` (the web links to the datasets have been removed from this document due to data usage restrictions).
 
